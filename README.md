@@ -9,3 +9,7 @@ ChatGPT是由OpenAI训练的大语言模型下的聊天对话机器人。
 文章的详细链接如下，欢迎大家贡献
 
 [⁡⁣‬﻿‬⁣‍‍⁡⁤‍⁤﻿﻿⁣⁣⁢⁣⁡﻿⁣‌⁡⁣⁢⁢‬⁡⁤⁤⁢﻿⁤ChatGPT Jailbreaking - 飞书云文档 (feishu.cn)](https://k5ms77k0o1.feishu.cn/wiki/GmBzwJGGyivO4tkn3pQcgq3XnTf)
+
+![](./assets/Document.png)
+
+![](./assets/JailbreakingPrompts.png)
